@@ -21,4 +21,4 @@ TODO
 
 ## License
 
-This project is licensed under the GNU General Public License, version 3 - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the GNU General Public License, version 3 - see the [LICENSE](LICENSE) file for details.
