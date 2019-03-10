@@ -7,6 +7,11 @@ Prototype SMT Solver
 
 You need Python 3.7.1 or later to run protosmt.
 
+Also typing-extensions package is required. It can be installed as follows:
+```
+pip install typing-extensions==3.7.2
+``` 
+
 ### Installing
 
 TODO
